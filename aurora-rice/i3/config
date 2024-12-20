@@ -241,6 +241,7 @@ exec_always --no-startup-id setxkbmap -option caps:swapescape
 exec_always --no-startup-id killall polybar
 exec_always --no-startup-id ~/BASHSCRIPTS/launch_polybar.sh
 
-exec_always --no-startup-id feh --bg-fill /home/radeshu/eyecandy/wallpapers/galaxy.jpg
+exec_always --no-startup-id feh --bg-fill /home/radeshu/eyecandy/wallpapers/aurora-polar-en-las-montanas-8458.jpg
 exec_always --no-startup-id picom
 client.focused #ffffff #174a2a #ffffff #00f9d3 #00f9d3
+
